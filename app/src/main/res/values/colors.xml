@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="line_color_gray">#CCCCCC</color>
+    <color name="c1">#f1f1f1</color>
+    <color name="c2">#eeeeee</color>
+    <color name="c3">#dedede</color>
+    <color name="c4">#cecece</color>
+    <color name="c5">#9b9b9b</color>
+    <color name="c6">#646464</color>
+    <color name="c7">#383838</color>
+    <color name="c8">#ff6c6c</color>
+    <color name="c9">#cc3333</color>
+    <color name="c10">#e79e99</color>
+    <color name="c11">#ffe8e7</color>
+    <color name="c12">#ffffff</color>
+    <color name="c13">#000000</color>
+    <color name="c14">#960000</color>
+    <color name="c15">#f8f8f8</color>
+    <color name="c16">#c4c4c4</color>
+    <color name="c17">#252525</color>
+    <color name="c18">#e8e8e8</color>
+    <color name="c19">#e11c00</color>
+    <color name="c20">#1f1f1f</color>
+    <color name="c21">#f28f25</color>
+    <color name="c22">#86BA63</color>
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+    <color name="bg_current_color">#338BDC8E</color>
+    <color name="line_current_color">#53B755</color>
+    <color name="timetimepicker_default_text_color">#17233D</color>
+    <color name="timepicker_toolbar_bg">#17233D</color>
+    <color name="timepicker_dialog_bg">#53B755</color>
+    <color name="timepicker_line">#8BDC8E</color>
+    <color name="bg_F0F0F0_color">#Ffffff</color>
+    <color name="bg_black_abc">#000000</color>
+
+</resources>
